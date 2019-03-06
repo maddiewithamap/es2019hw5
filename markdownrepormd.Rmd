@@ -1,0 +1,13 @@
+---
+title: "Rmarkdownforgit"
+author: "Madeline Brown"
+date: "March 5, 2019"
+output: 
+  html_document: 
+    keep_md: yes
+---
+#this is my brilliant code
+```{r}
+str_pad("Maddie",10, side ="left")
+```
+
